@@ -1,0 +1,26 @@
+@media  screen and (max-width: 50%){
+        header{
+            background-color: red;
+
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .hero-section{
+            display: flex;
+            flex-direction: column;
+            justify-content: center
+            
+        }
+        .shop-section{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        footer{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+}
+    
